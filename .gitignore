@@ -1,3 +1,11 @@
+# IDE and temp files
+.idea/*
+*.iml
+run/*
+data/*
+secrets/*
+venv/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
